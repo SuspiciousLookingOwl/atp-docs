@@ -1,4 +1,7 @@
-# atp
+# atp-docs
+
+Unofficial documentation website for [Advanced Teleport](https://www.spigotmc.org/resources/advanced-teleport.64139/) plugins.
+
 
 ## Project setup
 ```
