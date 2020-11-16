@@ -1,0 +1,37 @@
+[
+    {
+        "name": "athelp",
+        "aliases": [""],
+        "description": "Shows you a list of categories you can choose from in case you need to know the commands of a specific feature do",
+        "syntax": "/athelp",
+        "permission": "at.member.help"
+    },
+    {
+        "name": "tpa",
+        "aliases": [""],
+        "description": "Sends a request to the player to teleport to them",
+        "syntax": "/tpa <ign>",
+        "permission": "at.member.tpa"
+    },
+    {
+        "name": "tpahere",
+        "aliases": [""],
+        "description": "Sends a request to the player to teleport them to you",
+        "syntax": "/tpahere <ign>",
+        "permission": "at.member.here"
+    },
+    {
+        "name": "tpayes",
+        "aliases": [""],
+        "description": "Accepts a teleport request. By multiple requests it shows you a list of pending requests by players which you can accept by clicking on the names in the list",
+        "syntax": "/tpayes",
+        "permission": "at.member.yes"
+    },
+    {
+        "name": "tpano",
+        "aliases": [""],
+        "description": "Declines a teleport request. By multiple requests is shows you a list of pending requests by players which you can decline by clicking on the names in the list",
+        "syntax": "/tpano",
+        "permission": "at.member.no"
+    }
+]
